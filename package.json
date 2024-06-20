@@ -1,5 +1,5 @@
 {
-  "name": "peertube-plugin-quickstart",
+  "name": "peertube-plugin-custom-input",
   "description": "PeerTube plugin quickstart",
   "version": "0.0.4",
   "author": "Chocobozzz",
@@ -36,5 +36,8 @@
   },
   "devDependencies": {
     "esbuild": "^0.14.36"
+  },
+  "dependencies": {
+    "@yaireo/tagify": "^4.26.6"
   }
 }
